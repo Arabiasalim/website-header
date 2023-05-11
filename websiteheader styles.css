@@ -1,0 +1,15 @@
+   .header {
+    padding: 40px;
+    text-align: right;
+    background: #06cadc;
+    font: size 50px;;
+    height: 70px;
+   }
+ .header a:hover{
+  background-color: blueviolet;
+    color: rgb(31, 215, 37);
+}
+  .logo{
+    background: url(C:\Users\lenovo\Downloads);
+    text-align: left;
+  }
